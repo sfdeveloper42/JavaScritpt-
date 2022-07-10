@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sfdeveloper42.plainjs-l5fho2st",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 3ZfDmAu5n3nwKJCuPYTS --open"
+  }
+}
